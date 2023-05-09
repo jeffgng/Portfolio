@@ -36,16 +36,17 @@ section.techno{
     box-shadow: rgba(119, 118, 118, 0.692) 0px 3px 8px;
     padding: 15px;
     margin: 15px;
+    border-radius: 10px;
   }
   .tech{
     /*border: 0.5px solid grey;
     border-radius: 30px;*/
    
     text-align: center;
-   
     box-shadow: rgba(119, 118, 118, 0.692) 0px 3px 8px;
     padding: 15px;
     margin: 15px;
+    border-radius: 10px;
   }
 
 
@@ -75,6 +76,6 @@ section.techno{
     margin:2%;
     padding: 2px;
 }
-img {
+.jeff {
 border-radius: 30px;
 }
