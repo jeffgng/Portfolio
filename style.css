@@ -30,15 +30,22 @@ section.techno{
     justify-content: space-evenly;
  } 
   .box{
-    border: 0.5px solid grey;
-   border-radius: 30px;
+  /*  border: 0.5px solid grey;
+   border-radius: 30px;*/
     text-align: center;
+    box-shadow: rgba(119, 118, 118, 0.692) 0px 3px 8px;
+    padding: 15px;
+    margin: 15px;
   }
   .tech{
-    border: 0.5px solid grey;
+    /*border: 0.5px solid grey;
+    border-radius: 30px;*/
    
     text-align: center;
-    border-radius: 30px;
+   
+    box-shadow: rgba(119, 118, 118, 0.692) 0px 3px 8px;
+    padding: 15px;
+    margin: 15px;
   }
 
 
@@ -46,6 +53,9 @@ section.techno{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    padding: 20px;
+    margin:20px;
+    
 }
 .logo{
     display: flex;
@@ -57,9 +67,14 @@ section.techno{
     font-size: 60px;
      margin:2%;
     padding: 2px;
+    color: dodgerblue;
+    opacity: 41;
 }
 .donne{
     font-size: 20px;
     margin:2%;
     padding: 2px;
+}
+img {
+border-radius: 30px;
 }
